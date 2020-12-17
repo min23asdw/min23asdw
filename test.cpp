@@ -5,14 +5,13 @@ int cheetah(int bath){
   int count=bot; //นับจำนวนฝาขวด
   int x =bot;
   int i=0; //ลูป
-while(i<count){
+while(i<count || count >= 3){
   if(i%3==0){
     bot=bot+1;
     count=count-2;
   }
   i++;
 }
-if(count > 2){cheetah(count*10);}
 std::cout << count<<"\n";
 return bot;
 }
@@ -22,7 +21,7 @@ return bot;
 
 int main(){
 
-cout << cheetah(105);
+cout << cheetah(204);
 
 
   return 0;
