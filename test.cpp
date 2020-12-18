@@ -4,7 +4,6 @@ int cheetah(int bath){
   int bot = bath/10; //จำนวนขวด
   int count=bot; //นับจำนวนฝาขวด
   int i=0; //ลูป
-  int x=2;
 if(bot>=3){
 while(i<count || count >= 3){
   if(i%3==0){
@@ -22,7 +21,10 @@ return bot;
 
 
 int main(){
-cout << cheetah(35);
+int x=0;
+std::cout << "money: "  ;
+cin >> x;
+cout << cheetah(x);
 
 
   return 0;
