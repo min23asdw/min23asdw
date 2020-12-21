@@ -23,7 +23,7 @@ i++;
 }
 cout << "Result = " << result;
 
-}else{cout << "Invaild input!!!";}
+}else{cout << "Invalid input!!!";}
 
 
   return 0;

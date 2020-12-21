@@ -38,7 +38,7 @@ C=app(C);
 }
 int main(){
 
-cout <<  adiff(95,260);
+cout << adiff(95,260);
 
   return 0;
 }
