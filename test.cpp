@@ -14,6 +14,7 @@ while(i<count || count >= 3){
 }
 return bot;
 }else return bot;
+cout <<"\n ฝา " << count;
 }
 
 
