@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm min23asdw</h1>
-<h3 align="center">I'm Java developer  like to play game.</h3>
+<h3 align="center">I'm Java developer but like to play game.</h3>
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=min23asdw&&count_private=true&show_icons=true)
