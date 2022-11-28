@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm min23asdw</h1>
 <h3 align="center">I'm Java developer  like to play game.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
