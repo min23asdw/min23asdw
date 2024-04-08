@@ -3,7 +3,7 @@
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=min23asdw&&count_private=true&show_icons=true)
-
+![min23asdw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=min23asdw&theme=default&hide_border=false)
 <p align="left">
 </p>
 
